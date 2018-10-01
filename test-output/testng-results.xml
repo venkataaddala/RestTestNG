@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3746" started-at="2018-10-01T15:35:22Z" finished-at="2018-10-01T15:35:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3746" started-at="2018-10-01T15:35:22Z" finished-at="2018-10-01T15:35:26Z">
+      <class name="restUsingtestNG.TestRunner">
+        <test-method status="PASS" signature="getRequest()" name="getRequest" duration-ms="2924" started-at="2018-10-01T15:35:22Z" finished-at="2018-10-01T15:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="postRequest()" name="postRequest" duration-ms="805" started-at="2018-10-01T15:35:25Z" finished-at="2018-10-01T15:35:26Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
