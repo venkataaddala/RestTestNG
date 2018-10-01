@@ -1,4 +1,4 @@
-package com.qa.rest.tests;
+package restUsingtestNG;
 
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
